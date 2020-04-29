@@ -7,7 +7,6 @@ body{
     
     
     min-width: 1350px;/*defines the width of the page*/
-    max-width: 1400px;
     position: relative; /*The element is positioned relative to its normal position.*/
     padding-bottom: 50px; /*Creates a space around the bottom of an element*/
 }
